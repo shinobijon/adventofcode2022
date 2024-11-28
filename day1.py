@@ -8,7 +8,7 @@ with open('/home/shobijon/Documents/PythonCode/AdventofCode2022/day1.in') as fil
 
 
 # Traversing every STRING in our DATA
-max = 0
+max = 1
 max2 = 0    # Elf with second greatest calories
 max3 = 0    # Elf with third greatest cals
 count = 0
